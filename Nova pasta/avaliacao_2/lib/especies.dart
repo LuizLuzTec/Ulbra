@@ -11,91 +11,106 @@ class EspeciesScreen extends StatelessWidget {
         'Justicia lanstyakii',
         'assets/img/01.png',
         'Justicia lanstyakii',
-        'ACANTHACEAE – Hábito: Erva,subarbusto; '
-        'Fitofisionomia ou Habitat: Mata de galeria, '
+        '\n\n'
+        'Família Botânica: ACANTHACEAE ''\n''Hábito: Erva,subarbusto; '
+            '\n''Fitofisionomia ou Habitat: Mata de galeria, '
         'cerrado (lato sensu), campo sujo, campo limpo;'
-        'Distribuição: MT, GO, DF; Local da foto: '
-        'Parque Nacional de Brasília – Brasília - DF'),
+            '\n''Distribuição: MT, GO, DF; '
+            '\n''Local da foto: Parque Nacional de Brasília – Brasília - DF'),
     Especie(
-        'venus',
+        'Lepidagathis floribunda',
         'assets/img/02.png',
-        'Vênus',
-        'Vênus é o segundo planeta do sistema Solar mais próximo do Sol. '
-            'Tem cerca de 800 milhões de anos e além do Sol e da Lua é o '
-            'corpo celeste mais brilhante no céu, motivo pelo qual é '
-            'conhecido desde a antiguidade.'),
+        'Lepidagathis floribunda',
+        '\n\n'
+            'Família Botânica: ACANTHACEAE ''\n''Hábito: Arbusto; '
+            '\n''Fitofisionomia ou Habitat: Mata de galeria,'
+            'mata seca (de encosta), cerradão, cerrado (lato sensu);'
+            '\n''Distribuição: TO, BA, MT, GO, DF, MS, MG, SP; '
+            '\n''Local da foto: Parque Nacional Grande Sertão Veredas - Chapada Gaúcha - MG'),
     Especie(
-        'marte',
-        'assets/img/03.png',
-        'Marte',
-        'Marte é o quarto planeta a partir do Sol, o segundo menor do Sistema Solar. '
-            'Batizado em homenagem ao deus romano da guerra, muitas vezes é descrito como o "Planeta Vermelho", '
-            'porque o óxido de ferro predominante em sua superfície lhe dá uma aparência avermelhada.'
-    ),
+              'Ruellia affinis',
+                'assets/img/03.png',
+              'Ruellia affinis',
+                '\n\n'
+              'Família Botânica: ACANTHACEAE ''\n''Hábito: Subarbusto ou trepadeira; '
+              '\n''Fitofisionomia ou Habitat: Mata de galeria,mata seca, '
+                  'campo rupestre (lato sensu), transição com mata atlântica'
+              '\n''Distribuição: BA;'
+              '\n''Local da foto: Parque Estadual da Serra dos Pirineus - Pirenópolis - GO'),
     Especie(
-        'jupiter',
-        'assets/img/04.png',
-        'Jupiter',
-        'Júpiter é o maior planeta do Sistema Solar, tanto em diâmetro quanto em massa,'
-            'e é o quinto mais próximo do Sol. Possui menos de um milésimo da massa solar, '
-            'contudo tem 2,5 vezes a massa de todos os outros planetas em conjunto. '
-            'É um planeta gasoso, junto com Saturno, Urano e Netuno.'
-    ),
+            'Ruellia geminiflora',
+            'assets/img/04.png',
+            'Ruellia geminiflora',
+            '\n\n'
+            'Família Botânica: ACANTHACEAE ''\n''Hábito: Subarbusto ou erva;'
+            '\n''Fitofisionomia ou Habitat: Borda de mata ciliar, cerradão, cerrado (stricto sensu),'
+            'campo sujo, campo limpo, campo rupestre (lato sensu), savanas amazônicas, área antrópica'
+            '\n''Distribuição: AM, PA, MA, CE, BA, MT, GO, DF, MS, MG, SP, RJ, PR, SC, RS;'
+            '\n''Local da foto: Chapada Imperial - Brazlândia - DF'),
     Especie(
-        'netuno',
+        'Ruellia puri',
         'assets/img/05.png',
-        'Netuno',
-        'Netuno ou Neptuno é o oitavo planeta do Sistema Solar, '
-            'o último a partir do Sol desde a reclassificação de Plutão'
-            'para a categoria de planeta anão, em 2006. Pertencente ao grupo dos gigantes gasosos,'
-            'possui um tamanho ligeiramente menor que o de Urano, mas maior massa, '
-            'equivalente a 17 massas terrestres.'
-
+        'Ruellia puri',
+        '\n\n'
+            'Família Botânica: ACANTHACEAE - Ruélia azul ''\n''Hábito: Subarbusto;'
+            '\n''Fitofisionomia ou Habitat: Mata de galeria, cerrado (lato sensu), '
+            'campo limpo, campo rupestre (lato sensu)'
+            '\n''Distribuição: PA, RO, MT, GO, DF, MG, SP;'
+            '\n''Local da foto: APA do Planalto Central - Brasília - DF'
     ),
     Especie(
-        'saturno',
+        'Ruellia villosa',
         'assets/img/06.png',
-        'Saturno',
-        'Saturno é o sexto planeta a partir do Sol e o segundo maior do Sistema Solar atrás de Júpiter.'
-            ' Pertencente ao grupo dos gigantes gasosos, possui cerca de 95 massas terrestres e orbita '
-            'a uma distância média de 9,5 unidades astronômicas.'
-
+        'Ruellia villosa',
+        '\n\n'
+            'Família Botânica: ACANTHACEAE''\n''Hábito: Subarbusto ereto;'
+            '\n''Fitofisionomia ou Habitat: Mata de galeria, cerrado (stricto sensu),'
+            ' campo úmido, campo rupestre(lato sensu)'
+            '\n''Distribuição: BA, GO, DF, MG;'
+            '\n''Local da foto: APA do Planalto Central - Brasília - DF'
     ),
     Especie(
-        'saturno',
+        'Alstroemeria stenopetala',
         'assets/img/07.png',
-        'Saturno',
-        'Saturno é o sexto planeta a partir do Sol e o segundo maior do Sistema Solar atrás de Júpiter.'
-            ' Pertencente ao grupo dos gigantes gasosos, possui cerca de 95 massas terrestres e orbita '
-            'a uma distância média de 9,5 unidades astronômicas.'
-
+        'Alstroemeria stenopetala',
+        '\n\n'
+            'Família Botânica: ALSTROEMERIACEAE''\n''Hábito: Erva ereta;'
+            '\n''Fitofisionomia ou Habitat: Cerradão, Cerrado (stricto sensu), Campo Úmido'
+            '\n''Distribuição: GO, DF;'
+            '\n''Local da foto: Parque Nacional da Chapada dos Veadeiros - Alto Paraíso de Goiás – GO'
     ),
     Especie(
-        'saturno',
+        'Gomphrena arborescens',
         'assets/img/08.png',
-        'Saturno',
-        'Saturno é o sexto planeta a partir do Sol e o segundo maior do Sistema Solar atrás de Júpiter.'
-            ' Pertencente ao grupo dos gigantes gasosos, possui cerca de 95 massas terrestres e orbita '
-            'a uma distância média de 9,5 unidades astronômicas.'
-
+        'Gomphrena arborescens',
+        '\n\n'
+            'Família Botânica: AMARANTHACEAE''\n''Hábito: Subarbusto ereto;'
+            '\n''Fitofisionomia ou Habitat: Cerrado (stricto sensu), Campo Sujo, Campo Rupestre (lato sensu)'
+            '\n''Distribuição: MT, DF, MS, MG, SP;'
+            '\n''Local da foto: Parque Nacional de Brasília - Brasília – DF'
     ),
     Especie(
-        'saturno',
+        'Gomphrena scapigera',
         'assets/img/09.png',
-        'Saturno',
-        'Saturno é o sexto planeta a partir do Sol e o segundo maior do Sistema Solar atrás de Júpiter.'
-            ' Pertencente ao grupo dos gigantes gasosos, possui cerca de 95 massas terrestres e orbita '
-            'a uma distância média de 9,5 unidades astronômicas.'
-
+        'Gomphrena scapigera',
+        '\n\n'
+            'Família Botânica: AMARANTHACEAE''\n''Hábito: Subarbusto ereto;'
+            '\n''Fitofisionomia ou Habitat: Cerrado (stricto sensu),'
+            ' Campo Sujo, Campo Rupestre (lato sensu)'
+            '\n''Distribuição: BA e MG;'
+            '\n''Local da foto: Parque Estadual do Biribiri - Serra do Espinhaço - Diamantina - MG'
     ),
     Especie(
-        'saturno',
+        'Anacardium occidentale',
         'assets/img/10.png',
-        'Saturno',
-        'Saturno é o sexto planeta a partir do Sol e o segundo maior do Sistema Solar atrás de Júpiter.'
-            ' Pertencente ao grupo dos gigantes gasosos, possui cerca de 95 massas terrestres e orbita '
-            'a uma distância média de 9,5 unidades astronômicas.'
-
+        'Anacardium occidentale',
+        '\n\n'
+            'Família Botânica: ANACARDIACEAE - Cajueiro''\n''Hábito: Árvore;'
+            '\n''Fitofisionomia ou Habitat: Mata Ciliar, Cerradão, Cerrado (stricto sensu), '
+            'Campo Sujo, Savanas Amazônicas'
+            '\n''Distribuição: RR, AP, PA, AM, TO, '
+            'AC, MA, PI, CE, RN, PB, PE, BA, AL, SE, MT, GO, DF, MG, ES, SP, RJ, PR, SC;'
+            '\n''Local da foto: RPPN Fazenda Vaga-Fogo – Pirenópolis - GO'
     ),
   ];
 
@@ -127,7 +142,8 @@ class EspeciesScreen extends StatelessWidget {
                           SizedBox(
                             width: 10,
                           ),
-
+                          Text('Nome Científico:''Justicia lanstyakii''\n''\n'
+                              'Família Botânica:''ACANTHACEAE')
                         ],
                       ),
                       onTap: () {
@@ -157,7 +173,9 @@ class EspeciesScreen extends StatelessWidget {
                           SizedBox(
                             width: 10,
                           ),
-                          Text(especies[1].nome),
+                          //Text(especies[1].nome),
+                          Text('Nome Científico:' 'Lepidagathis floribunda''\n''\n'
+                              'Família Botânica:' 'ACANTHACEAE')
                         ],
                       ),
                       onTap: () {
@@ -188,7 +206,8 @@ class EspeciesScreen extends StatelessWidget {
                           SizedBox(
                             width: 10,
                           ),
-                          Text(especies[2].nome),
+                          Text('Nome Científico:''Ruellia affinis''\n''\n'
+                              'Família Botânica:''ACANTHACEAE')
                         ],
                       ),
                       onTap: () {
@@ -219,7 +238,8 @@ class EspeciesScreen extends StatelessWidget {
                           SizedBox(
                             width: 10,
                           ),
-                          Text(especies[3].nome),
+                          Text('Nome Científico:''Ruellia geminiflora''\n''\n'
+                              'Família Botânica:''ACANTHACEAE')
                         ],
                       ),
                       onTap: () {
@@ -250,7 +270,8 @@ class EspeciesScreen extends StatelessWidget {
                           SizedBox(
                             width: 10,
                           ),
-                          Text(especies[4].nome),
+                          Text('Nome Científico:''Ruellia puri''\n''\n'
+                              'Família Botânica:''ACANTHACEAE')
                         ],
                       ),
                       onTap: () {
@@ -281,7 +302,8 @@ class EspeciesScreen extends StatelessWidget {
                           SizedBox(
                             width: 10,
                           ),
-                          Text(especies[5].nome),
+                          Text('Nome Científico:''Ruellia villosa''\n''\n'
+                              'Família Botânica:''ACANTHACEAE')
                         ],
                       ),
                       onTap: () {
@@ -290,7 +312,130 @@ class EspeciesScreen extends StatelessWidget {
                           MaterialPageRoute(
                             builder: (context) => EspecieScreen(
                               especie: especies[5],
-
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                    SizedBox(
+                      height: 20,
+                    ),
+                    GestureDetector(
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.start,
+                        children: [
+                          CircleAvatar(
+                            radius: 50,
+                            backgroundImage: AssetImage(
+                              especies[6].imagem,
+                            ),
+                          ),
+                          SizedBox(
+                            width: 10,
+                          ),
+                          Text('Nome Científico:''Alstroemeria stenopetala''\n''\n'
+                              'Família Botânica:''ALSTROEMERIACEAE')
+                        ],
+                      ),
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => EspecieScreen(
+                              especie: especies[6],
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                    SizedBox(
+                      height: 20,
+                    ),
+                    GestureDetector(
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.start,
+                        children: [
+                          CircleAvatar(
+                            radius: 50,
+                            backgroundImage: AssetImage(
+                              especies[7].imagem,
+                            ),
+                          ),
+                          SizedBox(
+                            width: 10,
+                          ),
+                          Text('Nome Científico:''Gomphrena arborescens''\n''\n'
+                              'Família Botânica:''AMARANTHACEAE')
+                        ],
+                      ),
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => EspecieScreen(
+                              especie: especies[7],
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                    SizedBox(
+                      height: 20,
+                    ),
+                    GestureDetector(
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.start,
+                        children: [
+                          CircleAvatar(
+                            radius: 50,
+                            backgroundImage: AssetImage(
+                              especies[8].imagem,
+                            ),
+                          ),
+                          SizedBox(
+                            width: 10,
+                          ),
+                          Text('Nome Científico:''Gomphrena scapigera''\n''\n'
+                              'Família Botânica:''AMARANTHACEAE')
+                        ],
+                      ),
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => EspecieScreen(
+                              especie: especies[8],
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                    SizedBox(
+                      height: 20,
+                    ),
+                    GestureDetector(
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.start,
+                        children: [
+                          CircleAvatar(
+                            radius: 50,
+                            backgroundImage: AssetImage(
+                              especies[9].imagem,
+                            ),
+                          ),
+                          SizedBox(
+                            width: 10,
+                          ),
+                          Text('Nome Científico:''Anacardium occidentale''\n''\n'
+                              'Família Botânica:''ANACARDIACEAE')
+                        ],
+                      ),
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => EspecieScreen(
+                              especie: especies[9],
                             ),
                           ),
                         );
